@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kvanzuijlen/renovate-reproduction/issues"
   },
-  "homepage": "https://github.com/kvanzuijlen/renovate-reproduction#readme"
+  "homepage": "https://github.com/kvanzuijlen/renovate-reproduction#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
